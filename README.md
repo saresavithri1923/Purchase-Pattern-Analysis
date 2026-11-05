@@ -1,4 +1,5 @@
 # Purchase-Pattern-Analysis
+Analyzed customer purchasing behaviour and sales trends using Excel, Power BI.Identified frequently purchased products and buying patterns to generate insights for better business decisions.
 
 ## Project Overview
 Purchase Pattern Analysis is a data analytics project focused on understanding customer purchasing behaviour and identifying frequently purchased products using retail transaction data.
