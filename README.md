@@ -38,6 +38,6 @@ The project analyzes transaction records to discover relationships between produ
 This project demonstrates how data analytics and visualization can transform retail transaction data into useful business insights.
 
 ## DashBoard
-<img width="358" height="262" alt="Screenshot 2026-10-05 203510" src="https://github.com/user-attachments/assets/a3a0e4e7-241c-4df6-94c9-b0d579b35c64" />
+   <img width="358" height="262" alt="Screenshot 2026-10-05 203510" src="https://github.com/user-attachments/assets/a3a0e4e7-   241c-4df6-94c9-b0d579b35c64" />
 
 
